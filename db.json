@@ -1,0 +1,1967 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "price": 999,
+      "oldPrice": 1500,
+      "image": "/Images/iphone 14.jpg",
+      "specs": {
+        "storage": "128GB",
+        "color": "Midnight",
+        "screenSize": "6.1 inches"
+      },
+      "description": "The iPhone 14 boasts a sleek design with a 6.1-inch screen and Midnight color. It features 128GB of storage and a stunning camera system that captures high-quality photos and videos, making it ideal for both casual and professional use."
+    },
+    {
+      "id": "2",
+      "brand": "Apple",
+      "model": "iPhone SE",
+      "price": 99,
+      "oldPrice": 500,
+      "image": "/Images/iphone se.jpg",
+      "specs": {
+        "storage": "128GB",
+        "color": "red",
+        "screenSize": "5.5 inches"
+      },
+      "description": "The iPhone SE offers powerful performance in a compact form, with a 5.5-inch screen and vibrant red color. With 128GB of storage, it delivers the core features of iOS at an affordable price, perfect for those seeking a budget-friendly option."
+    },
+    {
+      "id": "3",
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "price": 1699,
+      "oldPrice": 2500,
+      "image": "/Images/iphone 15.jpg",
+      "specs": {
+        "storage": "256GB",
+        "color": "frozen blue",
+        "screenSize": "6.1 inches"
+      },
+      "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts."
+    },
+    {
+      "id": "4",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "price": 2429,
+      "oldPrice": 3500,
+      "image": "/Images/iphone 15 pro max.jpg",
+      "specs": {
+        "storage": "1TB",
+        "color": "Navy Blue",
+        "screenSize": "6.7 inches"
+      },
+      "description": "The iPhone 15 Pro Max is a premium device with a 6.7-inch screen and Navy Blue finish. With 1TB of storage, it's designed for users who need top-tier performance and ample space for their multimedia needs."
+    },
+    {
+      "id": "5",
+      "brand": "Apple",
+      "model": "iPhone 16",
+      "price": 3429,
+      "oldPrice": 4000,
+      "image": "/Images/iphone 16z.jpg",
+      "specs": {
+        "storage": "1TB",
+        "color": "Yellow",
+        "screenSize": "6.78 inches"
+      },
+      "description": "With a 6.78-inch display and Yellow color, the iPhone 16 stands out with its 1TB storage capacity. This high-end model offers the latest features and a large screen, making it perfect for power users and tech lovers."
+    },
+    {
+      "id": "6",
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "price": 999,
+      "oldPrice": 1050,
+      "image": "https://th.bing.com/th?id=OPAC.kiFO0FBrinHDGw474C474&w=592&h=550&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "storage": "128GB",
+        "color": "Midnight",
+        "screenSize": "6.1 inches"
+      },
+      "description": "The iPhone 14 boasts a sleek design with a 6.1-inch screen and Midnight color. It features 128GB of storage and a stunning camera system that captures high-quality photos and videos, making it ideal for both casual and professional use."
+    },
+    {
+      "id": "7",
+      "brand": "Apple",
+      "model": "iPhone SE",
+      "price": 99,
+      "oldPrice": 150,
+      "image": "https://th.bing.com/th?id=OPAC.mh%2bgzpC9sFuNwg474C474&w=592&h=550&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "storage": "128GB",
+        "color": "red",
+        "screenSize": "5.5 inches"
+      },
+      "description": "The iPhone SE offers powerful performance in a compact form, with a 5.5-inch screen and vibrant red color. With 128GB of storage, it delivers the core features of iOS at an affordable price, perfect for those seeking a budget-friendly option."
+    },
+    {
+      "id": "8",
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "price": 1699,
+      "oldPrice": 1900,
+      "image": "https://th.bing.com/th?id=OPAC.kMQvfrowXGsbsA474C474&w=220&h=210&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "storage": "256GB",
+        "color": "frozen blue",
+        "screenSize": "6.1 inches"
+      },
+      "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts."
+    },
+    {
+      "id": "9",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "price": 2429,
+      "oldPrice": 2500,
+      "image": "https://th.bing.com/th?id=OPAC.K6FzJWPtnYtWPQ474C474&w=220&h=210&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "storage": "1TB",
+        "color": "Navy Blue",
+        "screenSize": "6.7 inches"
+      },
+      "description": "The iPhone 15 Pro Max is a premium device with a 6.7-inch screen and Navy Blue finish. With 1TB of storage, it's designed for users who need top-tier performance and ample space for their multimedia needs."
+    },
+    {
+      "id": "10",
+      "brand": "Apple",
+      "model": "iPhone 16",
+      "price": 3429,
+      "oldPrice": 3500,
+      "image": "https://th.bing.com/th?id=OPAC.6NjOxnuXNfdvuQ474C474&w=220&h=210&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "storage": "1TB",
+        "color": "Yellow",
+        "screenSize": "6.78 inches"
+      },
+      "description": "With a 6.78-inch display and Yellow color, the iPhone 16 stands out with its 1TB storage capacity. This high-end model offers the latest features and a large screen, making it perfect for power users and tech lovers."
+    },
+    {
+      "id": "11",
+      "brand": "Apple",
+      "model": "MacBook Air",
+      "price": 999,
+      "oldPrice": 1200,
+      "image": "https://th.bing.com/th?id=OPAC.LL2bQA1jw9cVpw474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "processor": "Apple M2",
+        "ram": "8GB",
+        "storage": "256GB SSD"
+      },
+      "description": "The MacBook Air is a lightweight laptop with a 13.3-inch Retina display. Equipped with the Apple M2 processor, 8GB of RAM, and a 256GB SSD, it's ideal for users seeking a balance of performance and portability."
+    },
+    {
+      "id": "12",
+      "brand": "Apple",
+      "model": "MacBook Pro",
+      "price": 1299,
+      "oldPrice": 1500,
+      "image": "https://th.bing.com/th?id=OPAC.pCj83K3yMKuRcQ474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "processor": "Apple M2 Pro",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      },
+      "description": "The MacBook Pro features a powerful Apple M2 Pro processor, 16GB of RAM, and a 512GB SSD. Its 14-inch Retina display and robust performance make it suitable for professional users and demanding applications."
+    },
+    {
+      "id": "13",
+      "brand": "Apple",
+      "model": "MacBook Air (M1, 2020)",
+      "price": 899,
+      "oldPrice": 1000,
+      "image": "/Images/mac book m2.jpg",
+      "specs": {
+        "processor": "Apple M1",
+        "ram": "8GB",
+        "storage": "256GB SSD"
+      },
+      "description": "The MacBook Air (M1, 2020) combines a sleek design with powerful performance. Featuring the Apple M1 chip, 8GB of RAM, and a 256GB SSD, it provides excellent efficiency for everyday tasks."
+    },
+    {
+      "id": "14",
+      "brand": "Apple",
+      "model": "MacBook Pro 16-inch (2021)",
+      "price": 2399,
+      "oldPrice": 2500,
+      "image": "/Images/mac book pro.jpg",
+      "specs": {
+        "processor": "Apple M1 Max",
+        "ram": "32GB",
+        "storage": "1TB SSD"
+      },
+      "description": "The MacBook Pro 16-inch (2021) is equipped with the Apple M1 Max processor, 32GB of RAM, and a 1TB SSD. Its large display and high-end specs cater to professional creatives and power users."
+    },
+    {
+      "id": "15",
+      "brand": "Apple",
+      "model": "MacBook Pro Ultra Max 16-inch (2025)",
+      "price": 3399,
+      "oldPrice": 3500,
+      "image": "/Images/mac book air.jpg",
+      "specs": {
+        "processor": "Apple M3 Max",
+        "ram": "64GB",
+        "storage": "3TB SSD"
+      },
+      "description": "The MacBook Pro Ultra Max 16-inch (2025) is a top-of-the-line laptop featuring the Apple M3 Max processor, 64GB of RAM, and a massive 3TB SSD. It's designed for the most demanding professional tasks."
+    },
+    {
+      "id": "16",
+      "brand": "Apple",
+      "model": "MacBook Air",
+      "price": 999,
+      "oldPrice": 1100,
+      "image": "https://th.bing.com/th/id/OIP.OJ04AUr9SItyUHrR4KWkLQAAAA?w=177&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "specs": {
+        "processor": "Apple M2",
+        "ram": "8GB",
+        "storage": "256GB SSD"
+      },
+      "description": "The MacBook Air is a lightweight laptop with a 13.3-inch Retina display. Equipped with the Apple M2 processor, 8GB of RAM, and a 256GB SSD, it's ideal for users seeking a balance of performance and portability."
+    },
+    {
+      "id": "17",
+      "brand": "Apple",
+      "model": "MacBook Pro",
+      "price": 1299,
+      "oldPrice": 1500,
+      "image": "https://th.bing.com/th?id=OPAC.8Y1OmUExJCJowQ474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "processor": "Apple M2 Pro",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      },
+      "description": "The MacBook Pro features a powerful Apple M2 Pro processor, 16GB of RAM, and a 512GB SSD. Its 14-inch Retina display and robust performance make it suitable for professional users and demanding applications."
+    },
+    {
+      "id": "18",
+      "brand": "Apple",
+      "model": "MacBook Air (M1, 2020)",
+      "price": 899,
+      "oldPrice": 1000,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/u/v/y/macbook-air-thin-and-light-laptop-apple-original-imagqapm5sdpumph.jpeg?q=70",
+      "specs": {
+        "processor": "Apple M1",
+        "ram": "8GB",
+        "storage": "256GB SSD"
+      },
+      "description": "The MacBook Air (M1, 2020) combines a sleek design with powerful performance. Featuring the Apple M1 chip, 8GB of RAM, and a 256GB SSD, it provides excellent efficiency for everyday tasks."
+    },
+    {
+      "id": "19",
+      "brand": "Apple",
+      "model": "MacBook Pro 16-inch (2021)",
+      "price": 2399,
+      "oldPrice": 2500,
+      "image": "https://th.bing.com/th?id=OPAC.Zd%2f9bgtvwykQXQ474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "processor": "Apple M1 Max",
+        "ram": "32GB",
+        "storage": "1TB SSD"
+      },
+      "description": "The MacBook Pro 16-inch (2021) is equipped with the Apple M1 Max processor, 32GB of RAM, and a 1TB SSD. Its large display and high-end specs cater to professional creatives and power users."
+    },
+    {
+      "id": "20",
+      "brand": "Apple",
+      "model": "MacBook Pro Ultra Max 16-inch (2025)",
+      "price": 3399,
+      "oldPrice": 3500,
+      "image": "https://th.bing.com/th?id=OPAC.3bhbvT2qd%2bsnGw474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "processor": "Apple M3 Max",
+        "ram": "64GB",
+        "storage": "3TB SSD"
+      },
+      "description": "The MacBook Pro Ultra Max 16-inch (2025) is a top-of-the-line laptop featuring the Apple M3 Max processor, 64GB of RAM, and a massive 3TB SSD. It's designed for the most demanding professional tasks."
+    }
+  ],
+  "laptops": [
+    {
+      "id": "16",
+      "brand": "Apple",
+      "model": "MacBook Air",
+      "price": 999,
+      "oldPrice": 1000,
+      "image": "https://th.bing.com/th/id/OIP.OJ04AUr9SItyUHrR4KWkLQAAAA?w=177&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "specs": {
+        "processor": "Apple M2",
+        "ram": "8GB",
+        "storage": "256GB SSD"
+      },
+      "description": "The MacBook Air is a lightweight laptop with a 13.3-inch Retina display. Equipped with the Apple M2 processor, 8GB of RAM, and a 256GB SSD, it's ideal for users seeking a balance of performance and portability."
+    },
+    {
+      "id": "17",
+      "brand": "Apple",
+      "model": "MacBook Pro",
+      "price": 1299,
+      "oldPrice": 1500,
+      "image": "https://th.bing.com/th?id=OPAC.8Y1OmUExJCJowQ474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "processor": "Apple M2 Pro",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      },
+      "description": "The MacBook Pro features a powerful Apple M2 Pro processor, 16GB of RAM, and a 512GB SSD. Its 14-inch Retina display and robust performance make it suitable for professional users and demanding applications."
+    },
+    {
+      "id": "18",
+      "brand": "Apple",
+      "model": "MacBook Air (M1, 2020)",
+      "price": 899,
+      "oldPrice": 1000,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/u/v/y/macbook-air-thin-and-light-laptop-apple-original-imagqapm5sdpumph.jpeg?q=70",
+      "specs": {
+        "processor": "Apple M1",
+        "ram": "8GB",
+        "storage": "256GB SSD"
+      },
+      "description": "The MacBook Air (M1, 2020) combines a sleek design with powerful performance. Featuring the Apple M1 chip, 8GB of RAM, and a 256GB SSD, it provides excellent efficiency for everyday tasks."
+    },
+    {
+      "id": "19",
+      "brand": "Apple",
+      "model": "MacBook Pro 16-inch (2021)",
+      "price": 2399,
+      "oldPrice": 2500,
+      "image": "https://th.bing.com/th?id=OPAC.Zd%2f9bgtvwykQXQ474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "processor": "Apple M1 Max",
+        "ram": "32GB",
+        "storage": "1TB SSD"
+      },
+      "description": "The MacBook Pro 16-inch (2021) is equipped with the Apple M1 Max processor, 32GB of RAM, and a 1TB SSD. Its large display and high-end specs cater to professional creatives and power users."
+    },
+    {
+      "id": "20",
+      "brand": "Apple",
+      "model": "MacBook Pro Ultra Max 16-inch (2025)",
+      "price": 3399,
+      "oldPrice": 3500,
+      "image": "https://th.bing.com/th?id=OPAC.3bhbvT2qd%2bsnGw474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "processor": "Apple M3 Max",
+        "ram": "64GB",
+        "storage": "3TB SSD"
+      },
+      "description": "The MacBook Pro Ultra Max 16-inch (2025) is a top-of-the-line laptop featuring the Apple M3 Max processor, 64GB of RAM, and a massive 3TB SSD. It's designed for the most demanding professional tasks."
+    },
+    {
+      "id": "11",
+      "brand": "Apple",
+      "model": "MacBook Air",
+      "price": 999,
+      "oldPrice": 1000,
+      "image": "https://th.bing.com/th?id=OPAC.LL2bQA1jw9cVpw474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "processor": "Apple M2",
+        "ram": "8GB",
+        "storage": "256GB SSD"
+      },
+      "description": "The MacBook Air is a lightweight laptop with a 13.3-inch Retina display. Equipped with the Apple M2 processor, 8GB of RAM, and a 256GB SSD, it's ideal for users seeking a balance of performance and portability."
+    },
+    {
+      "id": "12",
+      "brand": "Apple",
+      "model": "MacBook Pro",
+      "price": 1299,
+      "oldPrice": 1500,
+      "image": "https://th.bing.com/th?id=OPAC.pCj83K3yMKuRcQ474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+      "specs": {
+        "processor": "Apple M2 Pro",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      },
+      "description": "The MacBook Pro features a powerful Apple M2 Pro processor, 16GB of RAM, and a 512GB SSD. Its 14-inch Retina display and robust performance make it suitable for professional users and demanding applications."
+    },
+    {
+      "id": "13",
+      "brand": "Apple",
+      "model": "MacBook Air (M1, 2020)",
+      "price": 899,
+      "oldPrice": 1000,
+      "image": "/Images/mac book m2.jpg",
+      "specs": {
+        "processor": "Apple M1",
+        "ram": "8GB",
+        "storage": "256GB SSD"
+      },
+      "description": "The MacBook Air (M1, 2020) combines a sleek design with powerful performance. Featuring the Apple M1 chip, 8GB of RAM, and a 256GB SSD, it provides excellent efficiency for everyday tasks."
+    },
+    {
+      "id": "14",
+      "brand": "Apple",
+      "model": "MacBook Pro 16-inch (2021)",
+      "price": 2399,
+      "oldPrice": 2500,
+      "image": "/Images/mac book pro.jpg",
+      "specs": {
+        "processor": "Apple M1 Max",
+        "ram": "32GB",
+        "storage": "1TB SSD"
+      },
+      "description": "The MacBook Pro 16-inch (2021) is equipped with the Apple M1 Max processor, 32GB of RAM, and a 1TB SSD. Its large display and high-end specs cater to professional creatives and power users."
+    },
+    {
+      "id": "15",
+      "brand": "Apple",
+      "model": "MacBook Pro Ultra Max 16-inch (2025)",
+      "price": 3399,
+      "oldPrice": 3500,
+      "image": "/Images/mac book air.jpg",
+      "specs": {
+        "processor": "Apple M3 Max",
+        "ram": "64GB",
+        "storage": "3TB SSD"
+      },
+      "description": "The MacBook Pro Ultra Max 16-inch (2025) is a top-of-the-line laptop featuring the Apple M3 Max processor, 64GB of RAM, and a massive 3TB SSD. It's designed for the most demanding professional tasks."
+    }
+  ],
+  "posts": [
+    {
+      "id": "23cf",
+      "FirstName": "deva",
+      "LastName": "sai",
+      "EmailID": "qd@gmail.com",
+      "Password": "123456",
+      "ConfirmPassword": "123456"
+    },
+    {
+      "id": "5bae",
+      "FirstName": "deva",
+      "LastName": "sai",
+      "EmailID": "devasai625@gmail.com",
+      "Password": "000000",
+      "ConfirmPassword": "000000"
+    },
+    {
+      "id": "76c0",
+      "FirstName": "sss",
+      "LastName": "ssa",
+      "EmailID": "cdevasai@gmail.com",
+      "Password": "999999",
+      "ConfirmPassword": "999999"
+    },
+    {
+      "id": "9a2e",
+      "FirstName": "qqq",
+      "LastName": "ddd",
+      "EmailID": "qd@gmail.com",
+      "Password": "mmmmmm",
+      "ConfirmPassword": "mmmmmm"
+    },
+    {
+      "id": "e280",
+      "FirstName": "eoxys",
+      "LastName": "solutions",
+      "EmailID": "eoxys@gmail.com",
+      "Password": "000000",
+      "ConfirmPassword": "000000"
+    },
+    {
+      "id": "41d4",
+      "FirstName": "virat",
+      "LastName": "kohli",
+      "EmailID": "vk@gmail.com",
+      "Password": "181818",
+      "ConfirmPassword": "181818"
+    },
+    {
+      "id": "baf6",
+      "FirstName": "virat",
+      "LastName": "kohli",
+      "EmailID": "vk@gmail.com",
+      "Password": "181818",
+      "ConfirmPassword": "181818"
+    },
+    {
+      "id": "47cb",
+      "FirstName": "hit",
+      "LastName": "man",
+      "EmailID": "rohith@gmail.com",
+      "Password": "454545",
+      "ConfirmPassword": "454545"
+    },
+    {
+      "id": "cb0c",
+      "FirstName": "mike",
+      "LastName": "jacks",
+      "EmailID": "mkjks@gmail.com",
+      "Password": "1111",
+      "ConfirmPassword": "1111"
+    },
+    {
+      "id": "64c0",
+      "FirstName": "m",
+      "LastName": "l",
+      "EmailID": "ml@gmail.com",
+      "Password": "mlml",
+      "ConfirmPassword": "mlml"
+    },
+    {
+      "id": "aaed",
+      "FirstName": "oleti",
+      "LastName": "lakshmi",
+      "EmailID": "ol@gmail.com",
+      "Password": "olol",
+      "ConfirmPassword": "olol"
+    },
+    {
+      "id": "6771",
+      "FirstName": "aggipetti",
+      "LastName": "macha",
+      "EmailID": "agptmac@gmail.com",
+      "Password": "fire",
+      "ConfirmPassword": "fire",
+      "AppleID": "vaducaptainaithenenadanu"
+    },
+    {
+      "id": "e3a3",
+      "FirstName": "deva",
+      "LastName": "sai",
+      "AppleID": "dsp",
+      "EmailID": "devasai625@gmail.com",
+      "Password": "dsps",
+      "ConfirmPassword": "dsps"
+    },
+    {
+      "id": "a24c",
+      "FirstName": "oleti",
+      "LastName": "lakshmi",
+      "AppleID": "cdevasai@gmail.com",
+      "EmailID": "ol@gmail.com",
+      "Password": "olol",
+      "ConfirmPassword": "olol"
+    },
+    {
+      "id": "1815",
+      "FirstName": "krithi",
+      "LastName": "shetty",
+      "AppleID": "mine",
+      "EmailID": "ks@gmail.com",
+      "Password": "mine",
+      "ConfirmPassword": "mine"
+    },
+    {
+      "id": "f151",
+      "FirstName": "virat",
+      "LastName": "kohli",
+      "AppleID": "virushka",
+      "EmailID": "vk@gmail.com",
+      "Password": "1818",
+      "ConfirmPassword": "1818"
+    },
+    {
+      "id": "4fb2",
+      "FirstName": "Aruna",
+      "LastName": "Kumari",
+      "AppleID": "aruna",
+      "EmailID": "ak@gmail.com",
+      "Password": "akak",
+      "ConfirmPassword": "akak"
+    },
+    {
+      "id": "789e",
+      "FirstName": "giri",
+      "LastName": "c",
+      "AppleID": "giri",
+      "EmailID": "giri@gmail.com",
+      "Password": "giri",
+      "ConfirmPassword": "giri"
+    },
+    {
+      "id": "7e67",
+      "FirstName": "apple",
+      "LastName": "id",
+      "AppleID": "apple",
+      "EmailID": "a@gmail.com",
+      "Password": "apple",
+      "ConfirmPassword": "apple"
+    },
+    {
+      "id": "deed",
+      "FirstName": "deva",
+      "LastName": "sai",
+      "AppleID": "Devasai",
+      "EmailID": "devasai625@gmail.com",
+      "Password": "deva",
+      "ConfirmPassword": "deva"
+    },
+    {
+      "id": "68fe",
+      "FirstName": "deva",
+      "LastName": "sai",
+      "AppleID": "Devasai",
+      "EmailID": "devasai625@gmail.com",
+      "Password": "8888",
+      "ConfirmPassword": "8888"
+    }
+  ],
+  "Orderhistory": [
+    {
+      "id": "4ff8",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "undefined",
+      "date": "2024-08-27T10:16:10.898Z"
+    },
+    {
+      "id": "f87e",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "userId": "mine",
+      "date": "2024-08-27T10:17:42.744Z"
+    },
+    {
+      "id": "d4b2",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "mine",
+      "date": "2024-08-27T10:18:40.601Z"
+    },
+    {
+      "id": "5fcf",
+      "items": [
+        {
+          "id": "2",
+          "brand": "Apple",
+          "model": "iPhone SE",
+          "price": 99,
+          "oldPrice": 500,
+          "image": "/Images/iphone se.jpg",
+          "specs": {
+            "storage": "128GB",
+            "color": "red",
+            "screenSize": "5.5 inches"
+          },
+          "description": "The iPhone SE offers powerful performance in a compact form, with a 5.5-inch screen and vibrant red color. With 128GB of storage, it delivers the core features of iOS at an affordable price, perfect for those seeking a budget-friendly option.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 99,
+      "count": 1,
+      "appleId": "dsp",
+      "date": "2024-08-27T10:19:23.452Z"
+    },
+    {
+      "id": "ca22",
+      "items": [
+        {
+          "id": "12",
+          "brand": "Apple",
+          "model": "MacBook Pro",
+          "price": 1299,
+          "oldPrice": 1500,
+          "image": "https://th.bing.com/th?id=OPAC.pCj83K3yMKuRcQ474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "processor": "Apple M2 Pro",
+            "ram": "16GB",
+            "storage": "512GB SSD"
+          },
+          "description": "The MacBook Pro features a powerful Apple M2 Pro processor, 16GB of RAM, and a 512GB SSD. Its 14-inch Retina display and robust performance make it suitable for professional users and demanding applications.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1299,
+      "count": 1,
+      "appleId": "virushka",
+      "date": "2024-08-27T10:20:55.022Z"
+    },
+    {
+      "id": "d113",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "aruna",
+      "date": "2024-08-27T10:54:43.573Z"
+    },
+    {
+      "id": "d255",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T06:51:56.194Z"
+    },
+    {
+      "id": "92d8",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T06:55:12.287Z"
+    },
+    {
+      "id": "505f",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T07:03:17.072Z"
+    },
+    {
+      "id": "fcf0",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T07:21:21.678Z"
+    },
+    {
+      "id": "bc1b",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T07:24:50.992Z"
+    },
+    {
+      "id": "cb60",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T07:26:14.401Z"
+    },
+    {
+      "id": "7f38",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T07:37:02.435Z"
+    },
+    {
+      "id": "d46f",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T07:56:08.089Z"
+    },
+    {
+      "id": "6686",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T09:00:57.971Z"
+    },
+    {
+      "id": "e727",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "mine",
+      "date": "2024-08-29T09:01:48.521Z"
+    },
+    {
+      "id": "8a14",
+      "items": [
+        {
+          "id": "5",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "price": 3429,
+          "oldPrice": 4000,
+          "image": "/Images/iphone 16z.jpg",
+          "specs": {
+            "storage": "1TB",
+            "color": "Yellow",
+            "screenSize": "6.78 inches"
+          },
+          "description": "With a 6.78-inch display and Yellow color, the iPhone 16 stands out with its 1TB storage capacity. This high-end model offers the latest features and a large screen, making it perfect for power users and tech lovers.",
+          "quantity": 3
+        }
+      ],
+      "totalPrice": 10287,
+      "count": 3,
+      "appleId": "dsp",
+      "date": "2024-08-29T09:08:18.852Z"
+    },
+    {
+      "id": "a0a7",
+      "items": [
+        {
+          "id": "5",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "price": 3429,
+          "oldPrice": 4000,
+          "image": "/Images/iphone 16z.jpg",
+          "specs": {
+            "storage": "1TB",
+            "color": "Yellow",
+            "screenSize": "6.78 inches"
+          },
+          "description": "With a 6.78-inch display and Yellow color, the iPhone 16 stands out with its 1TB storage capacity. This high-end model offers the latest features and a large screen, making it perfect for power users and tech lovers.",
+          "quantity": 3
+        }
+      ],
+      "totalPrice": 10287,
+      "count": 3,
+      "appleId": "dsp",
+      "date": "2024-08-29T10:22:54.445Z"
+    },
+    {
+      "id": "f4da",
+      "items": [
+        {
+          "id": "5",
+          "brand": "Apple",
+          "model": "iPhone 16",
+          "price": 3429,
+          "oldPrice": 4000,
+          "image": "/Images/iphone 16z.jpg",
+          "specs": {
+            "storage": "1TB",
+            "color": "Yellow",
+            "screenSize": "6.78 inches"
+          },
+          "description": "With a 6.78-inch display and Yellow color, the iPhone 16 stands out with its 1TB storage capacity. This high-end model offers the latest features and a large screen, making it perfect for power users and tech lovers.",
+          "quantity": 3
+        },
+        {
+          "id": "4",
+          "brand": "Apple",
+          "model": "iPhone 15 Pro Max",
+          "price": 2429,
+          "oldPrice": 3500,
+          "image": "/Images/iphone 15 pro max.jpg",
+          "specs": {
+            "storage": "1TB",
+            "color": "Navy Blue",
+            "screenSize": "6.7 inches"
+          },
+          "description": "The iPhone 15 Pro Max is a premium device with a 6.7-inch screen and Navy Blue finish. With 1TB of storage, it's designed for users who need top-tier performance and ample space for their multimedia needs.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 12716,
+      "count": 4,
+      "appleId": "virushka",
+      "date": "2024-08-29T11:10:48.416Z"
+    },
+    {
+      "id": "0eb4",
+      "items": [
+        {
+          "id": "8",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 1900,
+          "image": "https://th.bing.com/th?id=OPAC.kMQvfrowXGsbsA474C474&w=220&h=210&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "virushka",
+      "date": "2024-08-29T11:28:14.757Z"
+    },
+    {
+      "id": "b74a",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "virushka",
+      "date": "2024-08-29T11:43:13.806Z"
+    },
+    {
+      "id": "3fa6",
+      "items": [
+        {
+          "id": "4",
+          "brand": "Apple",
+          "model": "iPhone 15 Pro Max",
+          "price": 2429,
+          "oldPrice": 3500,
+          "image": "/Images/iphone 15 pro max.jpg",
+          "specs": {
+            "storage": "1TB",
+            "color": "Navy Blue",
+            "screenSize": "6.7 inches"
+          },
+          "description": "The iPhone 15 Pro Max is a premium device with a 6.7-inch screen and Navy Blue finish. With 1TB of storage, it's designed for users who need top-tier performance and ample space for their multimedia needs.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 2429,
+      "count": 1,
+      "appleId": "virushka",
+      "date": "2024-08-29T11:44:52.084Z"
+    },
+    {
+      "id": "2725",
+      "items": [
+        {
+          "id": "19",
+          "brand": "Apple",
+          "model": "MacBook Pro 16-inch (2021)",
+          "price": 2399,
+          "oldPrice": 2500,
+          "image": "https://th.bing.com/th?id=OPAC.Zd%2f9bgtvwykQXQ474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "processor": "Apple M1 Max",
+            "ram": "32GB",
+            "storage": "1TB SSD"
+          },
+          "description": "The MacBook Pro 16-inch (2021) is equipped with the Apple M1 Max processor, 32GB of RAM, and a 1TB SSD. Its large display and high-end specs cater to professional creatives and power users.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 2399,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T11:49:41.315Z"
+    },
+    {
+      "id": "784a",
+      "items": [
+        {
+          "id": "19",
+          "brand": "Apple",
+          "model": "MacBook Pro 16-inch (2021)",
+          "price": 2399,
+          "oldPrice": 2500,
+          "image": "https://th.bing.com/th?id=OPAC.Zd%2f9bgtvwykQXQ474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "processor": "Apple M1 Max",
+            "ram": "32GB",
+            "storage": "1TB SSD"
+          },
+          "description": "The MacBook Pro 16-inch (2021) is equipped with the Apple M1 Max processor, 32GB of RAM, and a 1TB SSD. Its large display and high-end specs cater to professional creatives and power users.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 2399,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T11:55:03.076Z"
+    },
+    {
+      "id": "2471",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T12:01:46.725Z"
+    },
+    {
+      "id": "df67",
+      "items": [
+        {
+          "id": "4",
+          "brand": "Apple",
+          "model": "iPhone 15 Pro Max",
+          "price": 2429,
+          "oldPrice": 3500,
+          "image": "/Images/iphone 15 pro max.jpg",
+          "specs": {
+            "storage": "1TB",
+            "color": "Navy Blue",
+            "screenSize": "6.7 inches"
+          },
+          "description": "The iPhone 15 Pro Max is a premium device with a 6.7-inch screen and Navy Blue finish. With 1TB of storage, it's designed for users who need top-tier performance and ample space for their multimedia needs.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 2429,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T12:04:23.770Z"
+    },
+    {
+      "id": "4f82",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-29T12:07:44.027Z"
+    },
+    {
+      "id": "1a68",
+      "items": [
+        {
+          "id": "12",
+          "brand": "Apple",
+          "model": "MacBook Pro",
+          "price": 1299,
+          "oldPrice": 1500,
+          "image": "https://th.bing.com/th?id=OPAC.pCj83K3yMKuRcQ474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "processor": "Apple M2 Pro",
+            "ram": "16GB",
+            "storage": "512GB SSD"
+          },
+          "description": "The MacBook Pro features a powerful Apple M2 Pro processor, 16GB of RAM, and a 512GB SSD. Its 14-inch Retina display and robust performance make it suitable for professional users and demanding applications.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1299,
+      "count": 1,
+      "appleId": null,
+      "date": "2024-08-29T13:19:36.182Z"
+    },
+    {
+      "id": "2a22",
+      "items": [
+        {
+          "id": "8",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 1900,
+          "image": "https://th.bing.com/th?id=OPAC.kMQvfrowXGsbsA474C474&w=220&h=210&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "aruna",
+      "date": "2024-08-29T13:21:22.782Z"
+    },
+    {
+      "id": "deb1",
+      "items": [
+        {
+          "id": "8",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 1900,
+          "image": "https://th.bing.com/th?id=OPAC.kMQvfrowXGsbsA474C474&w=220&h=210&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "aruna",
+      "date": "2024-08-29T13:31:19.024Z"
+    },
+    {
+      "id": "7aca",
+      "items": [
+        {
+          "id": "8",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 1900,
+          "image": "https://th.bing.com/th?id=OPAC.kMQvfrowXGsbsA474C474&w=220&h=210&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "mine",
+      "date": "2024-08-29T13:34:32.001Z"
+    },
+    {
+      "id": "3994",
+      "items": [
+        {
+          "id": "19",
+          "brand": "Apple",
+          "model": "MacBook Pro 16-inch (2021)",
+          "price": 2399,
+          "oldPrice": 2500,
+          "image": "https://th.bing.com/th?id=OPAC.Zd%2f9bgtvwykQXQ474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "processor": "Apple M1 Max",
+            "ram": "32GB",
+            "storage": "1TB SSD"
+          },
+          "description": "The MacBook Pro 16-inch (2021) is equipped with the Apple M1 Max processor, 32GB of RAM, and a 1TB SSD. Its large display and high-end specs cater to professional creatives and power users.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 2399,
+      "count": 1,
+      "appleId": "dsp",
+      "date": "2024-08-30T05:17:28.934Z"
+    },
+    {
+      "id": "0cf3",
+      "items": [
+        {
+          "id": "7",
+          "brand": "Apple",
+          "model": "iPhone SE",
+          "price": 99,
+          "oldPrice": 150,
+          "image": "https://th.bing.com/th?id=OPAC.mh%2bgzpC9sFuNwg474C474&w=592&h=550&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "storage": "128GB",
+            "color": "red",
+            "screenSize": "5.5 inches"
+          },
+          "description": "The iPhone SE offers powerful performance in a compact form, with a 5.5-inch screen and vibrant red color. With 128GB of storage, it delivers the core features of iOS at an affordable price, perfect for those seeking a budget-friendly option.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 99,
+      "count": 1,
+      "appleId": "dsp",
+      "date": "2024-08-30T05:20:10.933Z"
+    },
+    {
+      "id": "84ae",
+      "items": [
+        {
+          "id": "7",
+          "brand": "Apple",
+          "model": "iPhone SE",
+          "price": 99,
+          "oldPrice": 150,
+          "image": "https://th.bing.com/th?id=OPAC.mh%2bgzpC9sFuNwg474C474&w=592&h=550&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "storage": "128GB",
+            "color": "red",
+            "screenSize": "5.5 inches"
+          },
+          "description": "The iPhone SE offers powerful performance in a compact form, with a 5.5-inch screen and vibrant red color. With 128GB of storage, it delivers the core features of iOS at an affordable price, perfect for those seeking a budget-friendly option.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 99,
+      "count": 1,
+      "appleId": "dsp",
+      "date": "2024-08-30T06:01:26.868Z"
+    },
+    {
+      "id": "b8d9",
+      "items": [
+        {
+          "id": "20",
+          "brand": "Apple",
+          "model": "MacBook Pro Ultra Max 16-inch (2025)",
+          "price": 3399,
+          "oldPrice": 3500,
+          "image": "https://th.bing.com/th?id=OPAC.3bhbvT2qd%2bsnGw474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "processor": "Apple M3 Max",
+            "ram": "64GB",
+            "storage": "3TB SSD"
+          },
+          "description": "The MacBook Pro Ultra Max 16-inch (2025) is a top-of-the-line laptop featuring the Apple M3 Max processor, 64GB of RAM, and a massive 3TB SSD. It's designed for the most demanding professional tasks.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 3399,
+      "count": 1,
+      "appleId": "giri",
+      "date": "2024-08-30T06:18:20.069Z"
+    },
+    {
+      "id": "8da6",
+      "items": [
+        {
+          "id": "20",
+          "brand": "Apple",
+          "model": "MacBook Pro Ultra Max 16-inch (2025)",
+          "price": 3399,
+          "oldPrice": 3500,
+          "image": "https://th.bing.com/th?id=OPAC.3bhbvT2qd%2bsnGw474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "processor": "Apple M3 Max",
+            "ram": "64GB",
+            "storage": "3TB SSD"
+          },
+          "description": "The MacBook Pro Ultra Max 16-inch (2025) is a top-of-the-line laptop featuring the Apple M3 Max processor, 64GB of RAM, and a massive 3TB SSD. It's designed for the most demanding professional tasks.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 3399,
+      "count": 1,
+      "appleId": "giri",
+      "date": "2024-08-30T06:19:39.777Z"
+    },
+    {
+      "id": "20d4",
+      "items": [
+        {
+          "id": "20",
+          "brand": "Apple",
+          "model": "MacBook Pro Ultra Max 16-inch (2025)",
+          "price": 3399,
+          "oldPrice": 3500,
+          "image": "https://th.bing.com/th?id=OPAC.3bhbvT2qd%2bsnGw474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "processor": "Apple M3 Max",
+            "ram": "64GB",
+            "storage": "3TB SSD"
+          },
+          "description": "The MacBook Pro Ultra Max 16-inch (2025) is a top-of-the-line laptop featuring the Apple M3 Max processor, 64GB of RAM, and a massive 3TB SSD. It's designed for the most demanding professional tasks.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 3399,
+      "count": 1,
+      "appleId": "giri",
+      "date": "2024-08-30T06:32:13.383Z"
+    },
+    {
+      "id": "4006",
+      "items": [
+        {
+          "id": "20",
+          "brand": "Apple",
+          "model": "MacBook Pro Ultra Max 16-inch (2025)",
+          "price": 3399,
+          "oldPrice": 3500,
+          "image": "https://th.bing.com/th?id=OPAC.3bhbvT2qd%2bsnGw474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "processor": "Apple M3 Max",
+            "ram": "64GB",
+            "storage": "3TB SSD"
+          },
+          "description": "The MacBook Pro Ultra Max 16-inch (2025) is a top-of-the-line laptop featuring the Apple M3 Max processor, 64GB of RAM, and a massive 3TB SSD. It's designed for the most demanding professional tasks.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 3399,
+      "count": 1,
+      "appleId": "mine",
+      "date": "2024-08-30T06:34:22.728Z"
+    },
+    {
+      "id": "0f46",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "mine",
+      "date": "2024-08-30T06:42:32.297Z"
+    },
+    {
+      "id": "9c77",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "mine",
+      "date": "2024-08-30T06:44:45.668Z"
+    },
+    {
+      "id": "10f0",
+      "items": [
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "mine",
+      "date": "2024-08-30T06:44:59.684Z"
+    },
+    {
+      "id": "1576",
+      "items": [
+        {
+          "id": "4",
+          "brand": "Apple",
+          "model": "iPhone 15 Pro Max",
+          "price": 2429,
+          "oldPrice": 3500,
+          "image": "/Images/iphone 15 pro max.jpg",
+          "specs": {
+            "storage": "1TB",
+            "color": "Navy Blue",
+            "screenSize": "6.7 inches"
+          },
+          "description": "The iPhone 15 Pro Max is a premium device with a 6.7-inch screen and Navy Blue finish. With 1TB of storage, it's designed for users who need top-tier performance and ample space for their multimedia needs.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 2429,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-30T06:46:22.839Z"
+    },
+    {
+      "id": "7c59",
+      "items": [
+        {
+          "id": "4",
+          "brand": "Apple",
+          "model": "iPhone 15 Pro Max",
+          "price": 2429,
+          "oldPrice": 3500,
+          "image": "/Images/iphone 15 pro max.jpg",
+          "specs": {
+            "storage": "1TB",
+            "color": "Navy Blue",
+            "screenSize": "6.7 inches"
+          },
+          "description": "The iPhone 15 Pro Max is a premium device with a 6.7-inch screen and Navy Blue finish. With 1TB of storage, it's designed for users who need top-tier performance and ample space for their multimedia needs.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 2429,
+      "count": 1,
+      "appleId": "Devasai",
+      "date": "2024-08-30T07:05:56.786Z"
+    },
+    {
+      "id": "c4fd",
+      "items": [
+        {
+          "id": "20",
+          "brand": "Apple",
+          "model": "MacBook Pro Ultra Max 16-inch (2025)",
+          "price": 3399,
+          "oldPrice": 3500,
+          "image": "https://th.bing.com/th?id=OPAC.3bhbvT2qd%2bsnGw474C474&w=220&h=220&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "processor": "Apple M3 Max",
+            "ram": "64GB",
+            "storage": "3TB SSD"
+          },
+          "description": "The MacBook Pro Ultra Max 16-inch (2025) is a top-of-the-line laptop featuring the Apple M3 Max processor, 64GB of RAM, and a massive 3TB SSD. It's designed for the most demanding professional tasks.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 3399,
+      "count": 1,
+      "appleId": "giri",
+      "date": "2024-08-30T07:13:24.816Z"
+    },
+    {
+      "id": "b710",
+      "items": [
+        {
+          "id": "4",
+          "brand": "Apple",
+          "model": "iPhone 15 Pro Max",
+          "price": 2429,
+          "oldPrice": 3500,
+          "image": "/Images/iphone 15 pro max.jpg",
+          "specs": {
+            "storage": "1TB",
+            "color": "Navy Blue",
+            "screenSize": "6.7 inches"
+          },
+          "description": "The iPhone 15 Pro Max is a premium device with a 6.7-inch screen and Navy Blue finish. With 1TB of storage, it's designed for users who need top-tier performance and ample space for their multimedia needs.",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 4128,
+      "count": 2,
+      "appleId": null,
+      "date": "2024-08-30T09:30:52.893Z"
+    },
+    {
+      "id": "c9d4",
+      "items": [
+        {
+          "id": "4",
+          "brand": "Apple",
+          "model": "iPhone 15 Pro Max",
+          "price": 2429,
+          "oldPrice": 3500,
+          "image": "/Images/iphone 15 pro max.jpg",
+          "specs": {
+            "storage": "1TB",
+            "color": "Navy Blue",
+            "screenSize": "6.7 inches"
+          },
+          "description": "The iPhone 15 Pro Max is a premium device with a 6.7-inch screen and Navy Blue finish. With 1TB of storage, it's designed for users who need top-tier performance and ample space for their multimedia needs.",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 2500,
+          "image": "/Images/iphone 15.jpg",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 4128,
+      "count": 2,
+      "appleId": "Devasai",
+      "date": "2024-08-30T09:31:16.493Z"
+    },
+    {
+      "id": "778e",
+      "items": [
+        {
+          "id": "8",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 1900,
+          "image": "https://th.bing.com/th?id=OPAC.kMQvfrowXGsbsA474C474&w=220&h=210&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1699,
+      "count": 1,
+      "appleId": "aruna",
+      "date": "2024-08-30T10:29:52.982Z"
+    },
+    {
+      "id": "4c94",
+      "items": [
+        {
+          "id": "8",
+          "brand": "Apple",
+          "model": "iPhone 15",
+          "price": 1699,
+          "oldPrice": 1900,
+          "image": "https://th.bing.com/th?id=OPAC.kMQvfrowXGsbsA474C474&w=220&h=210&c=17&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "storage": "256GB",
+            "color": "frozen blue",
+            "screenSize": "6.1 inches"
+          },
+          "description": "Featuring a 6.1-inch display and a striking Frozen Blue color, the iPhone 15 is equipped with 256GB of storage. Its advanced camera system and enhanced performance make it a high-end choice for tech enthusiasts.",
+          "quantity": 1
+        },
+        {
+          "id": "13",
+          "brand": "Apple",
+          "model": "MacBook Air (M1, 2020)",
+          "price": 899,
+          "oldPrice": 1000,
+          "image": "/Images/mac book m2.jpg",
+          "specs": {
+            "processor": "Apple M1",
+            "ram": "8GB",
+            "storage": "256GB SSD"
+          },
+          "description": "The MacBook Air (M1, 2020) combines a sleek design with powerful performance. Featuring the Apple M1 chip, 8GB of RAM, and a 256GB SSD, it provides excellent efficiency for everyday tasks.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 2598,
+      "count": 2,
+      "appleId": "Devasai",
+      "date": "2024-08-30T10:35:18.724Z"
+    },
+    {
+      "id": "261c",
+      "items": [
+        {
+          "id": "7",
+          "brand": "Apple",
+          "model": "iPhone SE",
+          "price": 99,
+          "oldPrice": 150,
+          "image": "https://th.bing.com/th?id=OPAC.mh%2bgzpC9sFuNwg474C474&w=592&h=550&o=5&dpr=1.5&pid=21.1",
+          "specs": {
+            "storage": "128GB",
+            "color": "red",
+            "screenSize": "5.5 inches"
+          },
+          "description": "The iPhone SE offers powerful performance in a compact form, with a 5.5-inch screen and vibrant red color. With 128GB of storage, it delivers the core features of iOS at an affordable price, perfect for those seeking a budget-friendly option.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 99,
+      "count": 1,
+      "appleId": "aruna",
+      "date": "2024-08-30T10:40:27.613Z"
+    },
+    {
+      "id": "c6b8",
+      "items": [
+        {
+          "id": "4",
+          "brand": "Apple",
+          "model": "iPhone 15 Pro Max",
+          "price": 2429,
+          "oldPrice": 3500,
+          "image": "/Images/iphone 15 pro max.jpg",
+          "specs": {
+            "storage": "1TB",
+            "color": "Navy Blue",
+            "screenSize": "6.7 inches"
+          },
+          "description": "The iPhone 15 Pro Max is a premium device with a 6.7-inch screen and Navy Blue finish. With 1TB of storage, it's designed for users who need top-tier performance and ample space for their multimedia needs.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 2429,
+      "count": 1,
+      "appleId": "dsp",
+      "date": "2024-09-02T10:36:46.874Z"
+    },
+    {
+      "id": "7a12",
+      "items": [
+        {
+          "id": "18",
+          "brand": "Apple",
+          "model": "MacBook Air (M1, 2020)",
+          "price": 899,
+          "oldPrice": 1000,
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/u/v/y/macbook-air-thin-and-light-laptop-apple-original-imagqapm5sdpumph.jpeg?q=70",
+          "specs": {
+            "processor": "Apple M1",
+            "ram": "8GB",
+            "storage": "256GB SSD"
+          },
+          "description": "The MacBook Air (M1, 2020) combines a sleek design with powerful performance. Featuring the Apple M1 chip, 8GB of RAM, and a 256GB SSD, it provides excellent efficiency for everyday tasks.",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 899,
+      "count": 1,
+      "appleId": "dsp",
+      "date": "2024-09-05T10:59:40.843Z"
+    }
+  ],
+  "address": [
+    {
+      "id": "9faa",
+      "FirstName": "deva sai",
+      "Mobile": 8179313625,
+      "AppleID": "virushka",
+      "Address": "ABCDFG",
+      "State": "KARNAAKA"
+    },
+    {
+      "id": "e020",
+      "FirstName": "deva sai",
+      "Mobile": 8179313625,
+      "AppleID": "virushka",
+      "Address": "ABCDFG",
+      "State": "KARNAAKA"
+    },
+    {
+      "id": "f332",
+      "FirstName": "devasai",
+      "Mobile": "08179313625",
+      "AppleID": "virushka",
+      "Address": "ABCDFG",
+      "State": "KARNAAKA"
+    },
+    {
+      "id": "683f",
+      "FirstName": "devasai",
+      "Mobile": 8179313625,
+      "AppleID": "aruna",
+      "Address": "ABCDFG",
+      "State": "KARNAAKA"
+    },
+    {
+      "id": "0b38",
+      "FirstName": "devasai",
+      "Mobile": 8179313625,
+      "AppleID": "mine",
+      "Address": "ABCDFG",
+      "State": "KARNAAKA"
+    },
+    {
+      "id": "83b0",
+      "FirstName": "devasai",
+      "Mobile": 8179313625,
+      "AppleID": "aruna",
+      "Address": "ABCDFG",
+      "State": "KARNAAKA"
+    },
+    {
+      "id": "bc91",
+      "FirstName": "devasai",
+      "Mobile": 8179313625,
+      "AppleID": "dsp",
+      "Address": "ABCDFG",
+      "State": "KARNAAKA"
+    },
+    {
+      "id": "d117",
+      "FirstName": "krithi shetty",
+      "Mobile": 9984480909,
+      "AppleID": "mine",
+      "Address": "my home",
+      "State": "Andhra pradesh"
+    },
+    {
+      "id": "1249",
+      "FirstName": "devasai",
+      "Mobile": "08179313625",
+      "AppleID": "Devasai",
+      "Address": "ABCDFG",
+      "State": "KARNAAKA"
+    }
+  ],
+  "payments": {}
+}

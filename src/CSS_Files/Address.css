@@ -1,0 +1,33 @@
+
+  .col h5{
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+  }
+  .col-12{
+    padding: 7px;
+    border: none;
+    width: 677px;
+    padding-right: 20px;
+    
+  }
+  .card px-7{
+    padding: 7px;
+    border: none;
+    width: 600px;
+  }
+  .container p-4{
+    padding-top: 57px;
+    border: none;
+    width: 700px;
+   
+
+  } 
+.col-12 h5{
+  display: flex;
+  justify-content: center;
+  margin-top: 4px;
+}
+
+
+

@@ -1,0 +1,124 @@
+.Signup-container {
+  display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    background-color:white;
+    margin-top: 0%;
+    flex-direction: column;
+    
+    
+  }
+  .Signup b{
+    display: flex;
+    align-items: center;
+    margin-left: 130px;
+  }
+  
+  .Signup-container button{
+    background-color: #0f82fd;
+    border: none;
+    color:#fff;
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+    font-size: 16px;
+  }
+  .Signup-container Link{
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .Signup-container button:hover{
+    background-color: #007bff;
+    padding: 10px 15px;
+    border-radius: 16px;
+    border: none;
+    cursor:pointer
+  }
+  
+  
+  .Signup {
+    background-color:#d9dde3;      
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;        
+  }
+
+ 
+  
+  .Signup div {
+    margin-bottom: 15px;    
+  }
+  
+  .Signup label {
+    display: block;
+    margin-bottom: 3px;     
+    font-weight: bold;
+  }
+  
+  .Signup input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #d2d6da;
+    border-radius: 4px;
+    box-sizing: border-box;
+  
+  }
+  
+  .Signup button {
+    background-color: #007bff; 
+    color: white;
+    border: none;
+    padding: 10px 15px ;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .Signup button:hover {
+    background-color: #0056b3; 
+  }
+  
+  .Error-Message{
+    color: red;
+    font-size: 0.875rem;
+    margin-top: 5px;
+  }
+  
+  .Signup-container h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 70px;
+    margin-right: 60px;
+    
+    
+  }
+  .empty{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;  
+    
+  }
+
+  @media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+    .item {
+        width: 100%;
+    }
+}
+
+
+.Signup-container img{
+  height: 80px;
+  width: 500px;
+  padding-top: 30px;
+  
+}
+  

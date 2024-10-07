@@ -1,0 +1,27 @@
+.order {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 115vh; 
+    text-align: center; 
+}
+.order img {
+    max-width: 130px;
+    height: 130px; 
+}
+.order button{
+    margin-right: 15px;
+    border-radius: 8px;
+    padding: 4px;
+    margin-bottom: 5px;
+    background-color: rgb(114, 177, 156);
+    color: white;
+    border: none;
+    font-weight: normal;
+}
+.order button:hover{
+    background-color: rgb(21, 154, 60);
+
+}
+  
